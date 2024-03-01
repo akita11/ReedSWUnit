@@ -2,7 +2,7 @@
 
 <img src="https://github.com/akita11/ReedSWUnit/blob/main/ReedSWUnit.jpg" width="320px">
 
-磁石を近づけるとONになるリードスイッチのUnitです。ネオジム磁石のような強い磁石であれば5mm程度近づけるだけでONになります。ONになるとLEDが点灯します。
+磁石を近づけるとONになるリードスイッチのUnitです。ネオジム磁石のような強い磁石であれば5mm程度近づけるだけでONになります。ONになるとLEDが点灯します。UIFlowなどからは、M5Stackの[ボタンUnit](https://www.switch-science.com/products/4047)と同じように扱うことができます。
 
 ## ピン配置
 
