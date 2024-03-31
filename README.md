@@ -6,6 +6,10 @@
 
 ※OFF時にLEDがうっすらと点灯しますが、異常ではありません（LEDに流れている電流は20uA程度ですが高輝度LEDのためうっすらと点灯しているように見えます）
 
+<img src="https://github.com/akita11/ReedSWUnit/blob/main/ReedSWUnit_case1.jpg" width="320px">
+
+<img src="https://github.com/akita11/ReedSWUnit/blob/main/ReedSWUnit_case2.jpg" width="320px">
+
 ## ピン配置
 
 Grove端子の1番から順に「SW（負論理）」「無接続」「VDD(5V/3.3V)」「GND」の順です。
